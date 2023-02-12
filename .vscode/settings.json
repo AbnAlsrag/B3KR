@@ -1,6 +1,0 @@
-{
-    "files.associations": {
-        "*.vert": "glsl",
-        "process.h": "c"
-    }
-}
